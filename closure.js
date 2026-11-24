@@ -1,7 +1,7 @@
 const onobhayedo = {
-  elvis: '35',
-  ese: '33',
-  eric: '30 31 soon',
+  elvis: '36',
+  ese: '34',
+  eric: '31',
   ehimen: '28',
   ernest: '20',
 };
