@@ -4,6 +4,8 @@ const onobhayedo = {
   eric: '31',
   ehimen: '28',
   ernest: '20',
+  Mama: 'Christmas',
+  Pops,
 };
 
 let keys = Object.values(onobhayedo);
